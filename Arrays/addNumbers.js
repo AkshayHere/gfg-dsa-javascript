@@ -13,6 +13,12 @@ const addNumbers = () => {
     console.log('output: ', output);
 }
 
+/**
+ * @param {*} numbers the array we are working on
+ * @param {*} index current index of the array i am working
+ * @param {*} output final return value
+ * @returns 
+ */
 const addNumbersRecursive = (numbers, index, output) => {
     if(index < numbers.length){
         console.log('index >> : ', index);
