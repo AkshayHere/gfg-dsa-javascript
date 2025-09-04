@@ -1,4 +1,5 @@
 /**
+ * Remove duplicates from Sorted Array
  * https://www.geeksforgeeks.org/dsa/remove-duplicates-sorted-array/
  * O(n) Time and O(n) Space
  * @param {*} arr

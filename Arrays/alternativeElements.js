@@ -1,4 +1,5 @@
 /**
+ * Alternate elements of an array
  * https://www.geeksforgeeks.org/dsa/print-alternate-elements-of-an-array/
  */
 
